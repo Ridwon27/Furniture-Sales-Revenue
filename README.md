@@ -3,6 +3,8 @@
 ## Overview
 This report provides an in-depth analysis of furniture sales and revenue performance. The dashboard visualizes key sales metrics, revenue distribution, and performance insights based on products, brands, and locations. Correlation analysis is also conducted to identify relationships between sales, revenue, discounts, and inventory.
 
+![Furniture Dashboard](Furniture.xlsx - WPS Office 2_6_2025 1_54_12 AM.png)
+
 ## Key Metrics
 - **Total Sales:** 6,231 units
 - **Total Revenue:** $17,074,551
